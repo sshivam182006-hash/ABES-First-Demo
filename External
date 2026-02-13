@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>External Practical</title>
+</head>
+
+<body>
+
+<table border="1" align="center">
+    <caption><b>College Timetable</b></caption>
+
+    <thead>
+        <tr align="center">
+            <th>Subject</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr align="center">
+            <td>Maths</td>
+            <td>10:30</td>
+            <td>
+                <table border="2" cellspacing="5" cellpadding="5">
+                    <tr>
+                        <td>What</td>
+                        <td>To</td>
+                    </tr>
+                    <tr>
+                        <td>What</td>
+                        <td>To</td>
+                    </tr>
+                </table>
+            </td>
+            <td>12:30</td>
+            <td>01:30</td>
+        </tr>
+
+        <tr align="center">
+            <td>Physics</td>
+            <td>10:30</td>
+            <td>11:30</td>
+            <td>12:30</td>
+            <td>01:30</td>
+        </tr>
+
+        <tr align="center">
+            <td>Chemistry</td>
+            <td>10:30</td>
+            <td>11:30</td>
+            <td>12:30</td>
+            <td>01:30</td>
+        </tr>
+
+        <tr align="center">
+            <td>Electrical</td>
+            <td>10:30</td>
+            <td>11:30</td>
+            <td rowspan="2">12:30</td>
+            <td rowspan="2">01:30</td>
+        </tr>
+
+        <tr align="center">
+            <td>Web Designing</td>
+            <td>10:30</td>
+            <td>11:30</td>
+        </tr>
+
+    </tbody>
+
+</table>
+
+</body>
+</html>
